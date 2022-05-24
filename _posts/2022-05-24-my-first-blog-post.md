@@ -1,2 +1,5 @@
-Numers are important, here are some:
-1, 2, 3, 4, 5...
+title: Your (kinda) awesome title
+author: GitHub User
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  We all love numbers (kinda)
